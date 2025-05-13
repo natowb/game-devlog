@@ -1,9 +1,4 @@
-# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
-remote_theme: "jeffreytse/jekyll-theme-yat"
-# Add the following to activate the plugin
-plugins:
-  - jekyll-remote-theme
-
+theme: minima
 title: Nato's Game Devlog
 author: Nato
 description: a collection of random posts and updates for the game i've been working on in my spare time.
