@@ -1,4 +1,8 @@
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark
 title: Nato's Game Devlog
 author: Nato
 description: a collection of random posts and updates for the game i've been working on in my spare time.
